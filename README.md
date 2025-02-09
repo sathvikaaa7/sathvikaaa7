@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sathvikaaa7
 - 👀 I’m interested in diving down deep into the tech world
-- 🌱 I’m currently learning python,data structures and randomly looking into things
 - Keep learning...
 
 
