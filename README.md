@@ -1,6 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <img align="right" height="150" src="https://github.com/user-attachments/assets/21c8e000-a3c2-4dc2-a11d-575ae6e9f148" />
+<br>
 
 <p align="left">
 I'm Sathvika, a Computer Science Engineering student passionate about Software Development, AI, and building real-world tech projects.<br>
