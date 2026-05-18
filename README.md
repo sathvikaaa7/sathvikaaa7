@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<img align="right" height="150" src="https://github.com/user-attachments/assets/21c8e000-a3c2-4dc2-a11d-575ae6e9f148" />
+<img align="right" height="160" src="https://github.com/user-attachments/assets/21c8e000-a3c2-4dc2-a11d-575ae6e9f148" />
 <br>
 
 <p align="left">
