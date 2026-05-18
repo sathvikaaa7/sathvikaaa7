@@ -1,19 +1,13 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
 <img align="right" height="150" src="https://github.com/user-attachments/assets/21c8e000-a3c2-4dc2-a11d-575ae6e9f148" />
-###
 
 <p align="left">
 I'm Sathvika, a Computer Science Engineering student passionate about Software Development, AI, and building real-world tech projects.<br>
 Currently focused on becoming a strong full-stack developer while sharpening my problem-solving and system design skills.
 </p>
 
-###
-
 <h2 align="left">About me</h2>
-
-###
 
 <p align="left">
 ✨ Creating bugs and fixing them since 2024<br>
@@ -23,11 +17,7 @@ Currently focused on becoming a strong full-stack developer while sharpening my 
 🎲 Fun fact: I learn best by building projects first and figuring things out along the way
 </p>
 
-###
-
 <h2 align="left">Tech Stack</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
@@ -63,11 +53,7 @@ Currently focused on becoming a strong full-stack developer while sharpening my 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
 </div>
 
-###
-
 <h2 align="left">Current Focus</h2>
-
-###
 
 <p align="left">
 💻 Solving DSA problems consistently<br>
@@ -77,12 +63,9 @@ Currently focused on becoming a strong full-stack developer while sharpening my 
 🎨 Improving UI/UX and product thinking through hackathons and design challenges
 </p>
 
-
-
-
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/sathvikaaa7/sathvikaaa7/output/snake.svg" alt="Snake animation" />
-
 <!---
 sathvikaaa7/sathvikaaa7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
