@@ -5,6 +5,7 @@
 <p align="left">
 I'm Sathvika, a Computer Science Engineering student passionate about Software Development, AI, and building real-world tech projects.<br>
 Currently focused on becoming a strong full-stack developer while sharpening my problem-solving and system design skills.
+<br>
 </p>
 
 <h2 align="left">About me</h2>
