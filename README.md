@@ -2,6 +2,12 @@
 
 ###
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+###
+
 <p align="left">
 I'm Sathvika, a Computer Science Engineering student passionate about Software Development, AI, and building real-world tech projects.<br>
 Currently focused on becoming a strong full-stack developer while sharpening my problem-solving and system design skills.
@@ -49,9 +55,6 @@ Currently focused on becoming a strong full-stack developer while sharpening my 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
-  <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
 
@@ -78,6 +81,13 @@ Currently focused on becoming a strong full-stack developer while sharpening my 
 🎨 Improving UI/UX and product thinking through hackathons and design challenges
 </p>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+
+###
 <!---
 sathvikaaa7/sathvikaaa7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
