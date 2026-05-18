@@ -10,7 +10,7 @@ Currently focused on becoming a strong full-stack developer while sharpening my 
 <h2 align="left">About me</h2>
 
 <p align="left">
-✨ Creating bugs and fixing them since 2024<br>
+✨ Creating bugs and fixing them since 2023<br>
 📚 Currently learning Data Structures & Algorithms, Full Stack Development, AI/ML, and System Design<br>
 🎯 Goal: Become a production-level Software Engineer and build impactful AI-powered applications<br>
 🚀 Building projects around AI, productivity, gamification, finance, and real-world problem solving<br>
