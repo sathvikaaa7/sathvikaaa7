@@ -1,11 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-
-<img align="right" height="150" src="https://media.tenor.com/8Qf1Gq8G0W0AAAAC/anime-girl.gif" />
-
-###
-
+<img align="right" height="150" src="https://github.com/user-attachments/assets/21c8e000-a3c2-4dc2-a11d-575ae6e9f148" />
 ###
 
 <p align="left">
