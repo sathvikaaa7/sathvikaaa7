@@ -1,4 +1,6 @@
-<img width="300" height="202" alt="website design" src="https://github.com/user-attachments/assets/24affc25-d5d2-47b0-a95e-01ec0b09eb2e" />
+<img width="1526" height="1116" alt="gif1" src="https://github.com/user-attachments/assets/aa4e4565-e9e2-4aca-95d4-2ba3b4082651" />
+
+
 
 
 - 👋 Hi, I’m @sathvikaaa7
