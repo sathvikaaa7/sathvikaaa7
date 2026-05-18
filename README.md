@@ -81,8 +81,7 @@ Currently focused on becoming a strong full-stack developer while sharpening my 
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
-
+<img src="https://raw.githubusercontent.com/sathvikaaa7/sathvikaaa7/output/snake.svg" alt="Snake animation" />
 ###
 <!---
 sathvikaaa7/sathvikaaa7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
