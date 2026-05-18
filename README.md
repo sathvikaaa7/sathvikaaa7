@@ -77,12 +77,12 @@ Currently focused on becoming a strong full-stack developer while sharpening my 
 🎨 Improving UI/UX and product thinking through hackathons and design challenges
 </p>
 
-###
 
-<br clear="both">
+
+
 
 <img src="https://raw.githubusercontent.com/sathvikaaa7/sathvikaaa7/output/snake.svg" alt="Snake animation" />
-###
+
 <!---
 sathvikaaa7/sathvikaaa7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
