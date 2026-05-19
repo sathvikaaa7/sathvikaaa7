@@ -65,6 +65,21 @@ Currently focused on becoming a strong full-stack developer while sharpening my 
 🎨 Improving UI/UX and product thinking through hackathons and design challenges
 </p>
 
+<br>
+
+<h3>Connext with me</h3>
+<div align="center">
+
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/sathvika-nagabhirava-9087392b6/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
+  </a>
+
+  <a href="https://medium.com/https://medium.com/@harisathvika.1">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="25"/>
+  </a>
+
+</div>
+
 
 <!---
 sathvikaaa7/sathvikaaa7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
