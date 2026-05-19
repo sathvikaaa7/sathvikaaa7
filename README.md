@@ -65,12 +65,6 @@ Currently focused on becoming a strong full-stack developer while sharpening my 
 🎨 Improving UI/UX and product thinking through hackathons and design challenges
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sathvikaaa7/sathvikaaa7/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sathvikaaa7/sathvikaaa7/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sathvikaaa7/sathvikaaa7/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
 
 <!---
 sathvikaaa7/sathvikaaa7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
