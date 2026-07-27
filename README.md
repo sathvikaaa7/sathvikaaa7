@@ -9,6 +9,10 @@ Currently focused on becoming a strong full-stack developer while sharpening my 
 <br>
 </p>
 
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3973F7&vCenter=true&width=500&lines=CSE+Student;Full-Stack+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</p>
+
 <h2 align="left">About me</h2>
 
 <p align="left">
@@ -21,37 +25,34 @@ Currently focused on becoming a strong full-stack developer while sharpening my 
 
 <h2 align="left">Tech Stack</h2>
 
+<p align="left">
+  <strong>Languages:</strong> Java, Python, C, JavaScript, HTML/CSS<br>
+  <strong>Frontend & UI:</strong> React, Figma<br>
+  <strong>Backend & Databases:</strong> Django, MySQL<br>
+  <strong>Tools & Version Control:</strong> Git, GitHub
+</p>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
   <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
   <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
   <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
 </div>
 
@@ -79,6 +80,10 @@ Currently focused on becoming a strong full-stack developer while sharpening my 
   </a>
 
 </div>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sathvikaaa7&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
 
 <!---
 sathvikaaa7/sathvikaaa7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
